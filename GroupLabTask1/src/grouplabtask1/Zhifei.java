@@ -6,12 +6,10 @@ package grouplabtask1;
 
 /**
  *
- * @author chris
+ * @author Olive
  */
-public class Main {
-    public static void main(String[] args) {
-        Kewen.main(args);
-        Jinkun.main(args);
-        Zhifei.hello();
+public class Zhifei {
+    public static void hello(){
+        System.out.println("Hello from Zhifei");
     }
 }
