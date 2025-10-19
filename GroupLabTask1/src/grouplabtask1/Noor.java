@@ -10,7 +10,7 @@ package grouplabtask1;
  */
 public class Noor {
      public static void main(String[] args) {
-        System.out.println("Helli from Noor Andre!");
+        System.out.println("Hi from Noor Andre!");
     }
     
 }
