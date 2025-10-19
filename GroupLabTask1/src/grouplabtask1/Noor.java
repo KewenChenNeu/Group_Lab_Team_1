@@ -6,12 +6,11 @@ package grouplabtask1;
 
 /**
  *
- * @author chris
+ * @author noora.
  */
-public class Main {
+public class Noor {
     public static void main(String[] args) {
-        Kewen.main(args);
-        Jinkun.main(args);
-        Noor.main(args);
+        System.out.println("Hi from Noor Andre!");
     }
+    
 }
