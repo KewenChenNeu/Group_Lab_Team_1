@@ -6,11 +6,11 @@ package grouplabtask1;
 
 /**
  *
- * @author chris
+ * @author zhaojinkun
  */
-public class Main {
+public class Jinkun {
     public static void main(String[] args) {
-        Kewen.main(args);
-        Jinkun.main(args);
+        System.out.println("Hello from Jinkun Zhao!");
     }
+
 }
