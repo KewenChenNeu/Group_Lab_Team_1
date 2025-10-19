@@ -8,9 +8,9 @@ package grouplabtask1;
  *
  * @author chris
  */
-public class Main {
+public class Kewen {
     public static void main(String[] args) {
-        Kewen.main(args);
-    
+        System.out.println("Hello from Kewen Chen!");
     }
+
 }
