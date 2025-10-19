@@ -12,6 +12,5 @@ public class Main {
     public static void main(String[] args) {
         Kewen.main(args);
         Jinkun.main(args);
-        Noor.main(args);
     }
 }
