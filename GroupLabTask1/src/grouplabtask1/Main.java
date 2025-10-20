@@ -1,0 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package grouplabtask1;
+
+/**
+ *
+ * @author chris
+ */
+public class Main {
+    public static void main(String[] args) {
+        Kewen.main(args);
+        Jinkun.main(args);
+        Zhifei.hello();
+        Noor.main(args);
+    }
+}
