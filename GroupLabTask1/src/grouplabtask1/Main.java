@@ -14,5 +14,6 @@ public class Main {
         Jinkun.main(args);
         Zhifei.hello();
         Noor.main(args);
+        Kara.main(args);
     }
 }
